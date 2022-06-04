@@ -1771,14 +1771,6 @@
       "type": "opacity"
     }
   },
-  "featureflags": {
-    "testComponent": {
-      "active": {
-        "value": "true",
-        "type": "other"
-      }
-    }
-  },
   "padding": {
     "banner": {
       "horizontal": {
