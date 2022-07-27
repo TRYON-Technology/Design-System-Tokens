@@ -1267,6 +1267,14 @@
           "type": "sizing"
         }
       }
+    },
+    "skeleton": {
+      "text": {
+        "height": {
+          "value": 12,
+          "type": "sizing"
+        }
+      }
     }
   },
   "borderWidth": {
