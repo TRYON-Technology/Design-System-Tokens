@@ -1769,6 +1769,12 @@
     "hint": {
       "value": 0.7,
       "type": "opacity"
+    },
+    "snackbar": {
+      "icon": {
+        "value": 0.7,
+        "type": "opacity"
+      }
     }
   },
   "padding": {
