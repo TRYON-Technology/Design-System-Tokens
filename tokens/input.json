@@ -1,4 +1,14 @@
 {
+  "tokenSetOrder": {
+    "0": {
+      "value": "options",
+      "type": "other"
+    },
+    "1": {
+      "value": "mobile",
+      "type": "other"
+    }
+  },
   "borderRadius": {
     "card": {
       "large": {
@@ -1459,10 +1469,6 @@
         "value": "#0000008a",
         "type": "color"
       },
-      "disabled": {
-        "value": "#00000042",
-        "type": "color"
-      },
       "hint": {
         "value": "#00000061",
         "type": "color"
@@ -1476,33 +1482,13 @@
         "type": "color"
       }
     },
-    "actions": {
-      "main": {
-        "value": "#e0e0e0",
-        "type": "color"
-      },
-      "background": {
-        "value": "#00000014",
-        "type": "color"
-      },
-      "disabledBackground": {
-        "value": "#0000001f",
-        "type": "color"
-      },
-      "disabledText": {
+    "disabled": {
+      "text": {
         "value": "#00000042",
         "type": "color"
       },
-      "hover": {
-        "value": "#00000014",
-        "type": "color"
-      },
-      "focus": {
-        "value": "#00000029",
-        "type": "color"
-      },
-      "pressed": {
-        "value": "#0000003d",
+      "background": {
+        "value": "#0000001f",
         "type": "color"
       }
     },
