@@ -233,6 +233,10 @@
     "menuGlobal": {
       "value": 4,
       "type": "borderRadius"
+    },
+    "sidebarItem": {
+      "value": 4,
+      "type": "borderRadius"
     }
   },
   "spacing": {
@@ -746,11 +750,17 @@
         }
       }
     },
-    "treeView": {
+    "treeViewItem": {
       "label": {
         "gap": {
           "value": 12,
           "type": "spacing"
+        },
+        "padding": {
+          "right": {
+            "value": 12,
+            "type": "spacing"
+          }
         }
       },
       "icons": {
@@ -776,42 +786,6 @@
         },
         "left": {
           "value": 12,
-          "type": "spacing"
-        }
-      }
-    },
-    "sidebarMenu": {
-      "gap": {
-        "value": 12,
-        "type": "spacing"
-      },
-      "padding": {
-        "left": {
-          "value": 24,
-          "type": "spacing"
-        },
-        "right": {
-          "value": 8,
-          "type": "spacing"
-        },
-        "vertical": {
-          "value": 8,
-          "type": "spacing"
-        }
-      }
-    },
-    "sidebarSubmenu": {
-      "padding": {
-        "left": {
-          "value": 56,
-          "type": "spacing"
-        },
-        "right": {
-          "value": 8,
-          "type": "spacing"
-        },
-        "vertical": {
-          "value": 8,
           "type": "spacing"
         }
       }
@@ -937,6 +911,14 @@
               "type": "spacing"
             }
           }
+        }
+      }
+    },
+    "sidebarItem": {
+      "padding": {
+        "horizontal": {
+          "value": 8,
+          "type": "spacing"
         }
       }
     }
@@ -1282,6 +1264,18 @@
       "text": {
         "height": {
           "value": 12,
+          "type": "sizing"
+        }
+      }
+    },
+    "sidebarItem": {
+      "label": {
+        "large": {
+          "value": 56,
+          "type": "sizing"
+        },
+        "small": {
+          "value": 40,
           "type": "sizing"
         }
       }
