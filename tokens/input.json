@@ -818,10 +818,18 @@
         }
       }
     },
-    "headerGlobal": {
+    "header": {
+      "content": {
+        "padding": {
+          "horizontal": {
+            "value": 16,
+            "type": "spacing"
+          }
+        }
+      },
       "padding": {
-        "horizontal": {
-          "value": 16,
+        "vertical": {
+          "value": 12,
           "type": "spacing"
         }
       }
@@ -1228,12 +1236,6 @@
         "type": "sizing"
       }
     },
-    "headerGlobal": {
-      "height": {
-        "value": 72,
-        "type": "sizing"
-      }
-    },
     "footerSimple": {
       "height": {
         "value": 72,
@@ -1277,6 +1279,40 @@
         "small": {
           "value": 40,
           "type": "sizing"
+        }
+      }
+    },
+    "layout": {
+      "sidebar": {
+        "max": {
+          "width": {
+            "value": 320,
+            "type": "sizing"
+          }
+        },
+        "xl": {
+          "width": {
+            "value": 280,
+            "type": "sizing"
+          }
+        },
+        "lg": {
+          "width": {
+            "value": 280,
+            "type": "sizing"
+          }
+        },
+        "md": {
+          "width": {
+            "value": 280,
+            "type": "sizing"
+          }
+        },
+        "sm": {
+          "width": {
+            "value": 280,
+            "type": "sizing"
+          }
         }
       }
     }
