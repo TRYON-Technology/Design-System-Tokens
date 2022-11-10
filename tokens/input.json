@@ -845,8 +845,18 @@
       }
     },
     "footer": {
-      "padding": {
-        "horizontal": {
+      "content": {
+        "padding": {
+          "horizontal": {
+            "value": 16,
+            "type": "spacing"
+          },
+          "vertical": {
+            "value": 18,
+            "type": "spacing"
+          }
+        },
+        "gap": {
           "value": 16,
           "type": "spacing"
         }
@@ -1233,12 +1243,6 @@
     "menuGlobal": {
       "height": {
         "value": 36,
-        "type": "sizing"
-      }
-    },
-    "footerSimple": {
-      "height": {
-        "value": 72,
         "type": "sizing"
       }
     },
