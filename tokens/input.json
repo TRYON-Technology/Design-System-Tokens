@@ -222,7 +222,7 @@
       "value": 20,
       "type": "borderRadius"
     },
-    "avatarEnterprise": {
+    "account": {
       "value": 4,
       "type": "borderRadius"
     },
@@ -770,7 +770,7 @@
         }
       }
     },
-    "avatarEnterprise": {
+    "account": {
       "gap": {
         "value": 12,
         "type": "spacing"
@@ -1378,7 +1378,7 @@
       "value": 2,
       "type": "borderWidth"
     },
-    "avatarEnterprise": {
+    "account": {
       "value": 1,
       "type": "borderWidth"
     },
