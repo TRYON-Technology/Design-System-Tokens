@@ -9,6 +9,26 @@
       "type": "other"
     }
   },
+  "Light": {
+    "id": "5345b3701322e841d3c52e831723a738ced96612",
+    "selectedTokenSets": {
+      "light": "enabled",
+      "dark": "disabled"
+    },
+    "$figmaStyleReferences": {},
+    "type": "other",
+    "value": "[object Object]"
+  },
+  "Dark": {
+    "id": "5fd0afb8d092925d30f42713cfedcce4b84efd2c",
+    "selectedTokenSets": {
+      "light": "disabled",
+      "dark": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "type": "other",
+    "value": "[object Object]"
+  },
   "borderWidth": {
     "1": {
       "value": 1,
