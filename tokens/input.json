@@ -144,7 +144,7 @@
   "Dark": {
     "id": "5fd0afb8d092925d30f42713cfedcce4b84efd2c",
     "selectedTokenSets": {
-      "light": "disabled",
+      "light": "enabled",
       "dark": "enabled",
       "global": "source"
     },
