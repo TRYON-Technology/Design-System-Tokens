@@ -106,35 +106,35 @@
     },
     "secondary": {
       "main": {
-        "value": "#616161",
-        "type": "color"
-      },
-      "dark": {
         "value": "#424242",
         "type": "color"
       },
+      "dark": {
+        "value": "#212121",
+        "type": "color"
+      },
       "light": {
-        "value": "#757575",
+        "value": "#616161",
         "type": "color"
       },
       "background": {
-        "value": "#61616114",
+        "value": "#42424214",
         "type": "color"
       },
       "border": {
-        "value": "#61616180",
+        "value": "#42424280",
         "type": "color"
       },
       "hover": {
-        "value": "#61616114",
+        "value": "#42424214",
         "type": "color"
       },
       "focus": {
-        "value": "#61616129",
+        "value": "#42424229",
         "type": "color"
       },
       "pressed": {
-        "value": "#61616152",
+        "value": "#42424252",
         "type": "color"
       }
     },
