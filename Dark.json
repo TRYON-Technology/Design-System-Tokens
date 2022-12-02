@@ -154,15 +154,15 @@
     },
     "other": {
       "stroke": {
-        "value": "#0000003b",
+        "value": "#ffffff3b",
         "type": "color"
       },
       "divider": {
-        "value": "#e0e0e0",
+        "value": "#757575",
         "type": "color"
       },
       "backdrop": {
-        "value": "#00000080",
+        "value": "#ffffff80",
         "type": "color"
       },
       "snackbar": {
