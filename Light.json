@@ -72,35 +72,35 @@
   "colors": {
     "default": {
       "main": {
-        "value": "#e0e0e0",
+        "value": "#d1d1d6",
         "type": "color"
       },
       "dark": {
-        "value": "#bdbdbd",
+        "value": "#e5e5ea",
         "type": "color"
       },
       "light": {
-        "value": "#eeeeee",
+        "value": "#c7c7cc",
         "type": "color"
       },
       "background": {
-        "value": "#e0e0e040",
+        "value": "#d1d1d640",
         "type": "color"
       },
       "border": {
-        "value": "#e0e0e0bf",
+        "value": "#d1d1d6bf",
         "type": "color"
       },
       "hover": {
-        "value": "#e0e0e029",
+        "value": "#d1d1d629",
         "type": "color"
       },
       "focus": {
-        "value": "#e0e0e052",
+        "value": "#d1d1d652",
         "type": "color"
       },
       "pressed": {
-        "value": "#e0e0e080",
+        "value": "#d1d1d680",
         "type": "color"
       }
     },
@@ -308,7 +308,7 @@
         "type": "color"
       }
     },
-    "other": {
+    "component": {
       "stroke": {
         "value": "#0000003b",
         "type": "color"
@@ -325,6 +325,12 @@
         "value": "#323232",
         "type": "color"
       },
+      "switchKnob": {
+        "value": "#fafafa",
+        "type": "color"
+      }
+    },
+    "other": {
       "black": {
         "value": "#000000",
         "type": "color"
@@ -336,43 +342,35 @@
       "transparent": {
         "value": "#00000000",
         "type": "color"
-      },
-      "switchKnob": {
-        "value": "#fafafa",
-        "type": "color"
       }
     },
-    "background": {
+    "surface": {
+      "0": {
+        "value": "#ffffff",
+        "type": "color"
+      },
       "1": {
-        "value": "#fafafa",
+        "value": "#f2f2f7",
         "type": "color"
       },
       "2": {
-        "value": "#f5f5f5",
+        "value": "#e5e5ea",
         "type": "color"
       },
       "3": {
-        "value": "#eeeeee",
+        "value": "#d1d1d6",
         "type": "color"
       },
       "4": {
-        "value": "#e0e0e0",
+        "value": "#c7c7cc",
         "type": "color"
       },
-      "main": {
-        "value": "#ffffff",
+      "5": {
+        "value": "#aeaeb2",
         "type": "color"
-      }
-    },
-    "card": {
-      "background": {
-        "value": "#eeeeeef2",
-        "type": "color"
-      }
-    },
-    "theme": {
-      "background": {
-        "value": "#eeeeee",
+      },
+      "6": {
+        "value": "#8e8e93",
         "type": "color"
       }
     }

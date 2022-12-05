@@ -134,29 +134,37 @@
         "type": "color"
       }
     },
-    "background": {
+    "surface": {
+      "0": {
+        "value": "#000000",
+        "type": "color"
+      },
       "1": {
-        "value": "#212121",
+        "value": "#1c1c1e",
         "type": "color"
       },
       "2": {
-        "value": "#424242",
+        "value": "#2c2c2e",
         "type": "color"
       },
       "3": {
-        "value": "#616161",
+        "value": "#3a3a3c",
         "type": "color"
       },
       "4": {
-        "value": "#757575",
+        "value": "#48484a",
         "type": "color"
       },
-      "main": {
-        "value": "#000000",
+      "5": {
+        "value": "#636366",
+        "type": "color"
+      },
+      "6": {
+        "value": "#8e8e93",
         "type": "color"
       }
     },
-    "other": {
+    "component": {
       "stroke": {
         "value": "#ffffff3b",
         "type": "color"
@@ -173,6 +181,12 @@
         "value": "#323232",
         "type": "color"
       },
+      "switchKnob": {
+        "value": "#fafafa",
+        "type": "color"
+      }
+    },
+    "other": {
       "black": {
         "value": "#000000",
         "type": "color"
@@ -183,10 +197,6 @@
       },
       "transparent": {
         "value": "#00000000",
-        "type": "color"
-      },
-      "switchKnob": {
-        "value": "#fafafa",
         "type": "color"
       }
     },
@@ -291,18 +301,6 @@
       },
       "darkText": {
         "value": "#0d3c61",
-        "type": "color"
-      }
-    },
-    "card": {
-      "background": {
-        "value": "#eeeeeef2",
-        "type": "color"
-      }
-    },
-    "theme": {
-      "background": {
-        "value": "#eeeeee",
         "type": "color"
       }
     }
