@@ -189,12 +189,8 @@
         "value": "#ffffff",
         "type": "color"
       },
-      "contrastDark": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "inverse": {
-        "value": "#000000de",
+      "inversePrimary": {
+        "value": "#ffffffde",
         "type": "color"
       }
     },
