@@ -106,35 +106,35 @@
     },
     "primary": {
       "main": {
-        "value": "#3949ab",
+        "value": "#304ffe",
         "type": "color"
       },
       "dark": {
-        "value": "#303f9f",
+        "value": "#2b47e5",
         "type": "color"
       },
       "light": {
-        "value": "#3f51b5",
+        "value": "#4561fe",
         "type": "color"
       },
       "background": {
-        "value": "#3949ab14",
+        "value": "#304ffe14",
         "type": "color"
       },
       "border": {
-        "value": "#3949ab80",
+        "value": "#304ffe80",
         "type": "color"
       },
       "hover": {
-        "value": "#3949ab14",
+        "value": "#304ffe14",
         "type": "color"
       },
       "focus": {
-        "value": "#3949ab29",
+        "value": "#304ffe29",
         "type": "color"
       },
       "pressed": {
-        "value": "#3949ab52",
+        "value": "#304ffe52",
         "type": "color"
       }
     },
@@ -185,8 +185,16 @@
         "value": "#00000061",
         "type": "color"
       },
-      "contrast": {
+      "contrastWhite": {
         "value": "#ffffff",
+        "type": "color"
+      },
+      "contrastDark": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "#000000de",
         "type": "color"
       }
     },
