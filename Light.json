@@ -76,15 +76,15 @@
         "type": "color"
       },
       "dark": {
-        "value": "#e5e5ea",
-        "type": "color"
-      },
-      "light": {
         "value": "#c7c7cc",
         "type": "color"
       },
+      "light": {
+        "value": "#e5e5ea",
+        "type": "color"
+      },
       "background": {
-        "value": "#d1d1d6cc",
+        "value": "#d1d1d614",
         "type": "color"
       },
       "border": {
@@ -314,7 +314,7 @@
         "type": "color"
       },
       "divider": {
-        "value": "#e0e0e0",
+        "value": "#d1d1d6",
         "type": "color"
       },
       "backdrop": {

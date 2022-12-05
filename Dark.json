@@ -2,35 +2,35 @@
   "colors": {
     "default": {
       "main": {
-        "value": "#616161",
+        "value": "#3a3a3c",
         "type": "color"
       },
       "dark": {
-        "value": "#424242",
+        "value": "#2c2c2e",
         "type": "color"
       },
       "light": {
-        "value": "#757575",
+        "value": "#48484a",
         "type": "color"
       },
       "background": {
-        "value": "#61616140",
+        "value": "#3a3a3c14",
         "type": "color"
       },
       "border": {
-        "value": "#616161bf",
+        "value": "#3a3a3cbf",
         "type": "color"
       },
       "hover": {
-        "value": "#61616129",
+        "value": "#3a3a3c29",
         "type": "color"
       },
       "focus": {
-        "value": "#61616152",
+        "value": "#3a3a3c52",
         "type": "color"
       },
       "pressed": {
-        "value": "#61616180",
+        "value": "#3a3a3c80",
         "type": "color"
       }
     },
@@ -170,7 +170,7 @@
         "type": "color"
       },
       "divider": {
-        "value": "#757575",
+        "value": "#3a3a3c",
         "type": "color"
       },
       "backdrop": {
