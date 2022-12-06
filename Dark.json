@@ -166,11 +166,11 @@
     },
     "error": {
       "main": {
-        "value": "#ff3b30",
+        "value": "#ff453a",
         "type": "color"
       },
       "border": {
-        "value": "#ff3b3080",
+        "value": "#ff453a80",
         "type": "color"
       },
       "background": {
@@ -184,11 +184,11 @@
     },
     "warning": {
       "main": {
-        "value": "#ff9500",
+        "value": "#ff9f0a",
         "type": "color"
       },
       "border": {
-        "value": "#ff950080",
+        "value": "#ff9f0a80",
         "type": "color"
       },
       "background": {
@@ -202,11 +202,11 @@
     },
     "success": {
       "main": {
-        "value": "#34c759",
+        "value": "#30d158",
         "type": "color"
       },
       "border": {
-        "value": "#34c75980",
+        "value": "#30d15880",
         "type": "color"
       },
       "background": {
@@ -220,11 +220,11 @@
     },
     "info": {
       "main": {
-        "value": "#32ade6",
+        "value": "#64d2ff",
         "type": "color"
       },
       "border": {
-        "value": "#32ade680",
+        "value": "#64d2ff80",
         "type": "color"
       },
       "background": {
