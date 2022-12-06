@@ -1,5 +1,67 @@
 {
   "colors": {
+    "text": {
+      "primary": {
+        "value": "#ffffffde",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#ffffff8a",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#ffffff61",
+        "type": "color"
+      },
+      "contrastWhite": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "inversePrimary": {
+        "value": "#000000de",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "text": {
+        "value": "#ffffff42",
+        "type": "color"
+      },
+      "background": {
+        "value": "#ffffff1f",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "0": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "1": {
+        "value": "#1c1c1e",
+        "type": "color"
+      },
+      "2": {
+        "value": "#2c2c2e",
+        "type": "color"
+      },
+      "3": {
+        "value": "#3a3a3c",
+        "type": "color"
+      },
+      "4": {
+        "value": "#48484a",
+        "type": "color"
+      },
+      "5": {
+        "value": "#636366",
+        "type": "color"
+      },
+      "6": {
+        "value": "#8e8e93",
+        "type": "color"
+      }
+    },
     "default": {
       "main": {
         "value": "#3a3a3c",
@@ -102,104 +164,6 @@
         "type": "color"
       }
     },
-    "text": {
-      "primary": {
-        "value": "#ffffffde",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "#ffffff8a",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "#ffffff61",
-        "type": "color"
-      },
-      "contrastWhite": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "inversePrimary": {
-        "value": "#000000de",
-        "type": "color"
-      }
-    },
-    "disabled": {
-      "text": {
-        "value": "#ffffff42",
-        "type": "color"
-      },
-      "background": {
-        "value": "#ffffff1f",
-        "type": "color"
-      }
-    },
-    "surface": {
-      "0": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "1": {
-        "value": "#1c1c1e",
-        "type": "color"
-      },
-      "2": {
-        "value": "#2c2c2e",
-        "type": "color"
-      },
-      "3": {
-        "value": "#3a3a3c",
-        "type": "color"
-      },
-      "4": {
-        "value": "#48484a",
-        "type": "color"
-      },
-      "5": {
-        "value": "#636366",
-        "type": "color"
-      },
-      "6": {
-        "value": "#8e8e93",
-        "type": "color"
-      }
-    },
-    "component": {
-      "stroke": {
-        "value": "#ffffff3b",
-        "type": "color"
-      },
-      "divider": {
-        "value": "#3a3a3c",
-        "type": "color"
-      },
-      "backdrop": {
-        "value": "#ffffff80",
-        "type": "color"
-      },
-      "snackbar": {
-        "value": "#323232",
-        "type": "color"
-      },
-      "switchKnob": {
-        "value": "#fafafa",
-        "type": "color"
-      }
-    },
-    "other": {
-      "black": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "white": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "transparent": {
-        "value": "#00000000",
-        "type": "color"
-      }
-    },
     "error": {
       "main": {
         "value": "#ff3b30",
@@ -269,6 +233,42 @@
       },
       "darkText": {
         "value": "#14455c",
+        "type": "color"
+      }
+    },
+    "component": {
+      "stroke": {
+        "value": "#ffffff3b",
+        "type": "color"
+      },
+      "divider": {
+        "value": "#3a3a3c",
+        "type": "color"
+      },
+      "backdrop": {
+        "value": "#ffffff80",
+        "type": "color"
+      },
+      "snackbar": {
+        "value": "#323232",
+        "type": "color"
+      },
+      "switchKnob": {
+        "value": "#fafafa",
+        "type": "color"
+      }
+    },
+    "other": {
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "transparent": {
+        "value": "#00000000",
         "type": "color"
       }
     }

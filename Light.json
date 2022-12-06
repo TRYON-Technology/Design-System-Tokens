@@ -70,6 +70,68 @@
     }
   },
   "colors": {
+    "text": {
+      "primary": {
+        "value": "#000000de",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#0000008a",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#00000061",
+        "type": "color"
+      },
+      "contrastWhite": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "inversePrimary": {
+        "value": "#ffffffde",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "text": {
+        "value": "#00000042",
+        "type": "color"
+      },
+      "background": {
+        "value": "#0000001f",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "0": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "1": {
+        "value": "#f2f2f7",
+        "type": "color"
+      },
+      "2": {
+        "value": "#e5e5ea",
+        "type": "color"
+      },
+      "3": {
+        "value": "#d1d1d6",
+        "type": "color"
+      },
+      "4": {
+        "value": "#c7c7cc",
+        "type": "color"
+      },
+      "5": {
+        "value": "#aeaeb2",
+        "type": "color"
+      },
+      "6": {
+        "value": "#8e8e93",
+        "type": "color"
+      }
+    },
     "default": {
       "main": {
         "value": "#d1d1d6",
@@ -169,38 +231,6 @@
       },
       "pressed": {
         "value": "#21212152",
-        "type": "color"
-      }
-    },
-    "text": {
-      "primary": {
-        "value": "#000000de",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "#0000008a",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "#00000061",
-        "type": "color"
-      },
-      "contrastWhite": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "inversePrimary": {
-        "value": "#ffffffde",
-        "type": "color"
-      }
-    },
-    "disabled": {
-      "text": {
-        "value": "#00000042",
-        "type": "color"
-      },
-      "background": {
-        "value": "#0000001f",
         "type": "color"
       }
     },
@@ -309,36 +339,6 @@
       },
       "transparent": {
         "value": "#00000000",
-        "type": "color"
-      }
-    },
-    "surface": {
-      "0": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "1": {
-        "value": "#f2f2f7",
-        "type": "color"
-      },
-      "2": {
-        "value": "#e5e5ea",
-        "type": "color"
-      },
-      "3": {
-        "value": "#d1d1d6",
-        "type": "color"
-      },
-      "4": {
-        "value": "#c7c7cc",
-        "type": "color"
-      },
-      "5": {
-        "value": "#aeaeb2",
-        "type": "color"
-      },
-      "6": {
-        "value": "#8e8e93",
         "type": "color"
       }
     }
